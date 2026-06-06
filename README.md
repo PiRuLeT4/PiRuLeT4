@@ -78,15 +78,15 @@ Aquí puedes ver mi actividad en tiempo real en la plataforma:
 
 ---
 
-### 🤝 Conectemos
+### 🤝 Contacto
 
 ¡Siempre estoy dispuesto a charlar sobre Backend, Inteligencia Artificial, Realidad Virtual o nuevas tecnologías!
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-tirado-anula/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@dominio.com">
+  <a href="mailto:stiradoanula@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
